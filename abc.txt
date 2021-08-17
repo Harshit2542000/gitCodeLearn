@@ -1,0 +1,7 @@
+Hello my name is Harshit Malhotra.
+
+version of the files are saved 
+who made changes and what
+.git local repo
+
+hello my favourite colour is blue.
